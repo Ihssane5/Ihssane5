@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="image.png" alt="Deep Learning & Sequential Modeling Banner" style="width:100%; max-width:900px;">
+    <img src="banner.png" alt="Deep Learning & Sequential Modeling Banner" style="width:100%; max-width:900px;">
 </div>
 
 ### 👋 Hi, I'm Nedjaoui Ihssane  
@@ -11,6 +11,7 @@
 - 🎯 Seeking an **end-of-study internship** in AI with applications of **Sequential Modeling**.  
 - ⚡ Top Skills: Deep Learning, Sequential Modeling, Audio Processing, NLP.  
 
+- Currently participating in the [EEG Foundation Challenge](https://www.codabench.org/competitions/9975/) to deepen my understanding of EEG signal processing and its applications in brain-computer interfaces.
 ---
 
 ### 🛠️ Data & AI stack:  
