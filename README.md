@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="image.png" alt="Deep Learning & Sequential Modeling Banner" style="width:100%; max-width:900px;">
+    <img src="banner.png" alt="Deep Learning & Sequential Modeling Banner" style="width:100%; max-width:900px;">
 </div>
 
 ### 👋 Hi, I'm Nedjaoui Ihssane  
